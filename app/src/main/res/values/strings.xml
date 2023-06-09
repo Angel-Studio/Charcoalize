@@ -1,0 +1,7 @@
+<resources>
+    <!-- Common -->
+    <string name="app_name">Charcoalize</string>
+
+    <!-- Notification Service -->
+    <string name="notification_service_label">Notification Service</string>
+</resources>
